@@ -8,3 +8,4 @@ Your drawing must:
 * Have a non-black background color.
 * Each shape should have a color.  Use a variety of colors.  At least some shapes must be filled with color.
 
+Pygame documentation that is accessable at school can be found at https://docs.w3cub.com/pygame/ref/draw
